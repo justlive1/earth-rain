@@ -28,4 +28,3 @@
 ## 部署
 [Release](https://gitee.com/justlive1/earth-rain/releases)
 
-storm-cas打包为可执行war
