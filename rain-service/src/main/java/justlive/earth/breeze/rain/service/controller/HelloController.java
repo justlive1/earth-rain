@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import justlive.earth.breeze.rain.api.domian.Hello;
 import justlive.earth.breeze.rain.api.service.HelloService;
-import justlive.earth.breeze.snow.common.base.domain.Response;
+import vip.justlive.common.base.domain.Response;
 
 /**
  * demo

@@ -17,7 +17,7 @@
 		ignore-resource-not-found="true" />
 
 	<context:component-scan
-		base-package="justlive.earth.breeze.**.controller"></context:component-scan>
+		base-package="vip.justlive.**.controller"></context:component-scan>
 
 	<!-- i18n -->
 	<bean id="localeChangeInterceptor"
